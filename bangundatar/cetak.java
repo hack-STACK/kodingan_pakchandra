@@ -7,7 +7,7 @@ import javax.management.openmbean.SimpleType;
 import javax.sound.sampled.SourceDataLine;
 import javax.swing.text.AbstractDocument.BranchElement;
 
-public class cetak {
+class cetak {
     private balok a = new balok();
     private kubus b = new kubus();
     private tabung c = new tabung();
